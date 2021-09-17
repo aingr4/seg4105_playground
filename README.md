@@ -2,4 +2,4 @@
 This is a playgorund for the class SEG4105
 
 # Authors
-Andrew Ingram aingr102@uottawa.ca
+Andrew Ingram aingr102@uottawa.ca 300015097
